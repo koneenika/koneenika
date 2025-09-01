@@ -11,6 +11,7 @@ Hi 👋 My name is Koneenika
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" height="36" alt="Google Earth Engine" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="36" alt="Jupyter Notebook" /></a>
 <a href="https://qgis.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="36" alt="QGIS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
