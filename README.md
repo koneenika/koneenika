@@ -1,39 +1,34 @@
+<div align="center">
+  
 # Hi, I'm Koneenika 👋
 
-**Geospatial Data Scientist | GIS Analyst | Remote Sensing | Data Analytics**
+### 🚀 GIS Data Scientist
 
-I build data-driven geospatial solutions that transform satellite imagery, spatial data, and analytical models into meaningful insights and practical decision-support systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Building+Geospatial+Intelligence+Systems;Geospatial+AI+%26+Machine+Learning;Earth+Observation+%26+Remote+Sensing;Spatial+Analytics+%26+Data+Science;AI+for+Agriculture+%26+Environmental+Intelligence" />
+
+</div>
 
 ### 🌍 What you'll find here
 
-My GitHub explores the intersection of Geospatial AI, Remote Sensing, spatial analytics, machine learning, Earth observation, agricultural intelligence, and environmental data science.
-
-My work spans geospatial ML pipelines, satellite-image understanding, multimodal Earth observation, spatial prediction, intelligent image analysis, automated GIS workflows, and data-driven decision-support systems.
+Projects exploring **Geospatial AI, Remote Sensing, spatial analytics, machine learning, Earth observation, and AI-driven applications for agriculture and environmental intelligence**.
 
 ### 🚀 What I'm building toward
 
-I’m interested in building AI-powered geospatial products that combine spatial intelligence with modern AI and data engineering — from agentic workflows and intelligent automation to scalable ML pipelines and interactive decision-support applications.
-
-The goal is simple: turn complex geospatial data into systems that can analyse, reason, automate, and support real-world decisions.
+Building **AI-powered geospatial products** through intelligent automation, scalable ML workflows, and data-driven decision-support systems.
 
 ### 🔍 Currently exploring
 
-I’m diving deeper into Agentic AI, AI Agents, MCP tool integration, MLOps, LLMOps, Vision Transformers for Earth Observation, multimodal models, Deep Learning for Remote Sensing, real-time geospatial streaming, and advanced GIS automation.
-
-I’m particularly interested in how AI agents and multimodal models can interact with geospatial data, analytical tools, and Earth observation workflows to create more intelligent spatial applications.
+**Agentic AI · AI Agents · MCP · MLOps · LLMOps · Vision Transformers · Multimodal AI · Deep Learning for Earth Observation · Real-time Geospatial Streaming · Advanced GIS Automation**
 
 ### 🤝 Open to
 
-I’m interested in opportunities and collaborations around Geospatial Data Science, GIS Analytics, Remote Sensing, AI for Earth Observation and Data Analytics — especially projects where AI and geospatial intelligence come together to solve complex real-world problems.
+**Geospatial Data Science · GIS Analytics · Remote Sensing · AI for Earth Observation · Data Analytics**
 
 ### ⚡ Outside the pixels
 
-I work with satellite data professionally, but I still find it slightly ridiculous that a bunch of numbers attached to pixels can tell us so much about what’s happening on the ground. 🛰️🌾
-
+Still fascinated that pixels from hundreds of kilometres above Earth can tell stories about what’s happening on the ground. 🛰️🌾
   
 ## Skills 🧠
-
-<h2>Skills 🧠</h2>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -106,6 +101,7 @@ I work with satellite data professionally, but I still find it slightly ridiculo
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="36" alt="Canva"/>
   </a>
 </p>
+
 ## Socials 🌐
 
 <a href="https://github.com/koneenika" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
