@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Building+Geospatial+Intelligence+Systems;Geospatial+AI+%26+Machine+Learning;Earth+Observation+%26+Remote+Sensing;Spatial+Analytics+%26+Data+Science;AI+for+Agriculture+%26+Environmental+Intelligence" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=koneenika&label=Profile+Views&color=00adb5&style=flat" />
+</p>
+
 </div>
 
 ### 🌍 What you'll find here
